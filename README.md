@@ -81,13 +81,6 @@ python -m http.server 8080
 
 直接双击 `index.html` 打开也能看，但部分浏览器对本地文件下的 Service Worker 有限制，建议用本地服务器预览。
 
-## 发布前待办
-
-- [x] `manifest.webmanifest` 的 `start_url` 改为 `./index.html`。
-- [x] 补一份 MIT `LICENSE`。
-- [x] 素材归属已分类标注（见「素材与授权」），背景图与图标均为 AI 辅助生成。
-- [x] 旧分支 `24小时太阳钟.html`、`_shots/` 为本地留存，不进仓库；容器内 `.bak-*` 备份不随仓库上传。
-
 ## 协议
 
 MIT License —— 可自由使用、修改、转发，保留版权声明即可。
