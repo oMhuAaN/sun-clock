@@ -1,0 +1,10 @@
+# 本地留存的旧分支，不入库
+24小时太阳钟.html
+
+# 备份文件
+*.bak-*
+
+# 系统 / 编辑器垃圾
+.DS_Store
+Thumbs.db
+desktop.ini
